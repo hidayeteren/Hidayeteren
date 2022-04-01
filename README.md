@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **hidayeteren/Hidayeteren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Hello everyone! :
@@ -14,4 +14,4 @@ Hello everyone! :
 - 📫 How to reach me: hidayeteren@gmail.com
 - [My Linkedin](https://www.linkedin.com/in/hidayet-eren-demirci-701888a4/)
 
--->
+
