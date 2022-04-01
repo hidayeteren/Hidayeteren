@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-**hidayeteren/Hidayeteren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Hello everyone! :
+### Hello everyone! 👋;
 
 - I am an experienced operations manager
 - And now I'm further improving my skills with Java
